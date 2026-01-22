@@ -1,21 +1,17 @@
 # Portfolio
 
-# 👋 Prénom Nom
+# 👋 Nicolas Thys
 
 🎯 Objectif : Junior en cybersécurité
 
 ## 🔐 Compétences
 - Linux, réseaux, sécurité
-- Pentest / Blue Team (TryHackMe)
-- Outils : nmap, Wireshark, Burp
 
 ## 🧪 TryHackMe
-👉 https://tryhackme.com/p/tonprofil
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3623406" style='border:none;'></iframe>
 
 ## 📂 Projets
 - Analyse d’attaque brute-force (THM)
-- Scan & exploitation d’une VM
-- Détection d’événements SIEM
 
 ## 📫 Contact
-- LinkedIn : https://linkedin.com/in/...
+- LinkedIn : 
